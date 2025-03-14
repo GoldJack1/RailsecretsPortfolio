@@ -20,7 +20,7 @@ sections:
           - pr-4
         textAlign: left
 addTitleSuffix: true
-colors: colors-a
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
