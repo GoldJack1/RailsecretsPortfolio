@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Empty page
+title: Rail Statistics Privacy Policy
 sections:
   - type: TextSection
     title: Rail Statistics Privacy Policy
