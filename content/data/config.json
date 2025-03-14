@@ -54,7 +54,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Privacy Policy",
                 "altText": "Blog",
                 "url": "/",
                 "showIcon": false,
