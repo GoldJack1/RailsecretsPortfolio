@@ -33,7 +33,7 @@
     "header": {
         "type": "Header",
         "title": "Your Brand",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
