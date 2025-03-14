@@ -85,17 +85,6 @@
                     "pl-4"
                 ]
             }
-        },
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "",
-            "email": "",
-            "emailAltText": "",
-            "address": "",
-            "addressAltText": "Address",
-            "elementId": ""
         }
     }
 }
