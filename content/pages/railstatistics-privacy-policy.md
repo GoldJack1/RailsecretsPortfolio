@@ -4,7 +4,7 @@ title: Empty page
 sections:
   - type: TextSection
     title: Rail Statistics Privacy Policy
-    subtitle: 'Effective  '
+    subtitle: 'Effective Date: March 7th 2025'
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
